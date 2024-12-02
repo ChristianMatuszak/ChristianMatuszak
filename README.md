@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Christian Matuszak (Memnock92)
+- 👋 Hi, I'm Christian Matuszak
 - 👀 I’m interested in to many things to list them all
 - 🌱 I’m currently learning Java and Python but always open to new challenges
 
