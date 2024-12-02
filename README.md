@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 - 👋 Hi, I'm Christian Matuszak
 - 👀 I’m interested in to many things to list them all
 - 🌱 I’m currently learning Java and Python but always open to new challenges
