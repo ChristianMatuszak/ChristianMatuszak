@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Christian Matuszak 🇩🇪<br><br>
+<h2 align="left">Hi, I'm Christian Matuszak <br><br>
 I'm a software developer from Germany, currently learning Python & JavaScript.<br><br>
 I love building things, solving problems, and exploring new technologies! 🚀</h2>
 
