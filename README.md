@@ -1,5 +1,5 @@
 <h2 align="left">Hi, I'm Christian Matuszak <br><br>
-I'm a software developer from Germany, currently learning Python.<br><br>
+I'm a software developer from Germany, currently working with Python.<br><br>
 I love building things, solving problems, and exploring new technologies! 🚀</h2>
 
 ###
